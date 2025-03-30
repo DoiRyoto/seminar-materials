@@ -1,0 +1,834 @@
+metadata:
+  version: '1.0'
+  format: kindle_annotations
+  exported_at: '2025-03-30T13:56:24.013Z'
+annotations:
+  - location: 864
+    content:
+      highlight: 本当に価値あるものは「絵空事」からしか生まれない
+      note: null
+    highlight_type: section
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 884
+    content:
+      highlight: ＭＩＴのダニエル・キム教授が提唱した「創造的緊張（Creative Tension）」という概念
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 886
+    content:
+      highlight: 個人が自らの関心に基づくビジョンを明確にして、さらに、そのビジョンと現状とのあいだにある距離（ギャップ） を正面から受け入れたときに初めて、そのギャップを埋めようとするモチベーションが個人のなかに生まれる。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 890
+    content:
+      highlight: 人間の好奇心や情報への探究心が生まれるには、「情報ギャップ」を感じることが不可欠
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 891
+    content:
+      highlight: まず探究する心があって、そこから情報の収集に向かうのではなく、「情報が欠けている」という認知があって初めて、「何かを知りたい」という好奇心が発動する
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 893
+    content:
+      highlight: これに沿って考えれば、人は妄想を明確にすることで、初めて「情報ギャップ」を感じることができる。逆に、妄想を潜在的な状態に留めている限り、情報ギャップが生まれないので、前に進もうとする力も生まれないのである。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 896
+    content:
+      highlight: 根拠なき大風呂敷を嫌う「前年比至上主義」—— イシューとビジョン
+      note: null
+    highlight_type: section
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 901
+    content:
+      highlight: マネジャーが部下育成をする際には、本人の能力を大きく超えてはいないが、多少の「背伸び」が必要な挑戦課題を与えることが定石だとされている。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 903
+    content:
+      highlight: だとすると、実現不可能なビジョンは、無意味であるどころか、有害ですらあるのではないだろうか？　目標は「（背伸びは必要だが） 実現可能なもの」と「実現できないくらい途方もないもの」、どちらであるのが望ましいのだろうか？
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 905
+    content:
+      highlight: 実際には、これは二者択一的なものではない。むしろ、思考力を発揮する際のアプローチに応じて、使い分けがなされるべきものだろう。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 906
+    content:
+      highlight: 思考のアプローチは大きく２つに大別できる。 １つは、すでに顕在化している課題に対して、それを解決していくような思考だ。これはイシュー・ドリブン（Issue-Driven） なアプローチと言えるだろう。 他方、ここで僕たちが問題にしているのは、まだ目には見えない理想状態を自発的に生み出し、そこと現状とのあいだにあるギャップから、思考の駆動力を得ていく方法である。これがビジョン・ドリブン（Vision-Driven） なアプローチである。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 911
+    content:
+      highlight: 注意すべきなのは、イシュー・ドリブンとビジョン・ドリブンの対立軸は、「思考が創造的かどうか」という点にはないということだ。「現前する課題（イシュー）」か「内発的な妄想（ビジョン）」のうち、どちらを思考のスタート地点に置くのかの違いである。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 915
+    content:
+      highlight: イシュー・ドリブンな思考のモットーは、「Commit Low, Achieve High（小さくはじめて、大きく育てる」である。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 922
+    content:
+      highlight: 「実現しようがない目標」はナンセンスなのか？
+      note: null
+    highlight_type: section
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 923
+    content:
+      highlight: しかし、これにはマイナス面もある。１つは、「達成できそうな目標」以外にチャレンジしなくなることだ。イシュー・ドリブンなアプローチに偏ると、解決へのマイルストーンが見えている（ある意味ではイージーな） 課題ばかりに取り組んでしまう。そうすると、組織からはイノベーションを創出する素地が、個人からはやりがいやクリエイティブなものの見方が失われていく。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 927
+    content:
+      highlight: もう１つの弊害は、イシュー・ドリブンで立てた目標があるせいで、「もう一歩、先に進もう」とするモチベーションが消えてしまうことだ。何か特定の問題解決を動機としている限り、ひとたびその問題が解消すれば、そこから先に発想が膨らむことはない。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 940
+    content:
+      highlight: 「10％成長」よりも「 10 倍成長」を考える—— ムーンショット
+      note: null
+    highlight_type: section
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 952
+    content:
+      highlight: いま、妄想を解放して大きな目標を描くムーンショット型の思考力、つまりビジョン思考への見直しが進んでいる。ハーバード・ビジネススクールの学生たちは、「本当に世の中を変えるかもしれないBig Ideaに集中せよ」と教えられるという。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 960
+    content:
+      highlight: いまよりも 10％の成長を続けるのは「努力」が必要である。いまよりも 10％長く残業するという単純な発想の人はあまりいないだろうが、生産性を 10％高めたり、シェアを 10％増やしたりといった「がんばり」が求められるのはたしかだ。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 963
+    content:
+      highlight: 他方、 10 倍の成長は、その種の努力では到達不可能だとわかっているので、根本的に別のやり方を考えるしかない。途方もなく大きな目標があると、個人の創造力や内発的な動機に訴えかけるアプローチを取らざるを得なくなり、「努力」の呪縛から自分を解放することができる。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 990
+    content:
+      highlight: すでに人的資源管理（ＨＲＭ） の文脈では、「成果を管理するための目標」ではなく、「人のモチベーションや創造性を引き出すための目標」という考え方が生まれている。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 992
+    content:
+      highlight: 「会社の目標」と「個人の目標」をリンクさせることに主眼を置いたＯＫＲ（Objectives and Key Results） は、グーグルやインテルが導入した制度として注目を集めているが、これはビジョン・ドリブンな発想と親和性が高い目標管理のあり方だと言えるだろう。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 995
+    content:
+      highlight: ビジョン・ドリブン化する組織マネジメント
+      note: null
+    highlight_type: section
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 996
+    content:
+      highlight: 「イシュー・ドリブン」から「ビジョン・ドリブン」へのパラダイムシフトが進んでいる背景には、問題解決型のアプローチが限界を迎えているということがある。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1004
+    content:
+      highlight: 新たな商品コンセプトはKickstarterなどのクラウドファンディングサイトで、次々と出されるのがあたりまえになりつつある。このスピード感のなかでは、ソニー社内で承認を得ているうちに「後追い」になってしまうのだ。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1007
+    content:
+      highlight: マネジメント層が情報を集約してゴールを設定したり、戦略を立案したりしながら、ヒト・モノ・カネを動かしていくというモデル自体が、うまくいかなくなっているのである。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1014
+    content:
+      highlight: しかし、これを前提とする限り、「情報集約」→「合意形成」→「意思決定」→「伝達」→「リソース投下」→「現場の実行」という具合に、いくつもの中間プロセスが必要になる。このマネジメント・モデルでは、もはや時代の変化スピードにはとてもついていけない。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1024
+    content:
+      highlight: 経営者はごくゆるやかな不変のミッションだけを提示しておき、あとはそこに集った個人やパートナー企業が思い思いにそれぞれのビジョン（妄想） をミッションの価値観を守る範囲で実現していく、いわゆる「ティール 組織」が望ましい。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1043
+    content:
+      highlight: 僕たちの思考に駆動力を与えてくれる妄想を「引き出す」には、どんなことが必要なのだろうか？
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1051
+    content:
+      highlight: 「紙×手書き」が基本
+      note: null
+    highlight_type: section
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1052
+    content:
+      highlight: 妄想（ビジョン） を引き出すための「余白」「キャンバス」と聞いたときに、多くの人が連想するのは「ノート」ではないだろうか。実際、「新品のノートを買う」という行為は、いますぐ誰にでもできるという意味で、最も簡単な「余白デザイン」である。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1086
+    content:
+      highlight: だ。「他人モード」の侵犯を遠ざけたければ、ツールそのものを切り分けるのがいい。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1089
+    content:
+      highlight: 毎日決まった時間に書く。毎朝の仕事前がおすすめ（これをモーニング・ジャーナリングという） だが、なるべく続けやすい時間帯ならいつでもかまわない 人に見せないことが大前提。他人の目があるブログやＳＮＳではなく、持ち運びが簡単なコンパクトサイズのノートがいい 毎日、決まったページ数を書くようにする。「毎日２ページを埋める」と決めたら、なるべくそれを守る お気に入りのペンで手書きする。手書きには集中力を高めたり、心を整えたりする効果も期待できる。ふだんキーボードばかりに向かっている人にはとくにおすすめ（右脳を活用するマインドフルな行為として「写経」が流行している） 最低でも１カ月続ける。これくらい継続すると、かなりしっかりと効果を実感できる
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1097
+    content:
+      highlight: 妄想を引き出すという目的に照らした場合、ジャーナリングの記述内容は、「過去に起きたこと」よりは「そのときに感じていること」が望ましい。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1101
+    content:
+      highlight: いちばんとっつきやすいのは、「感情ジャーナリング」だ。自分がいやだと思ったこと、うれしかったこと、どうにも気になっていることなどを、ありのままに書いていく。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1112
+    content:
+      highlight: ノートは「ハードカバー」「ポケットサイズ」がおすすめだ。「他人モード」に邪魔されない特別感がつくれるし、どこでもパッと開けられる。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1115
+    content:
+      highlight: 「何もしない時間」をスケジュール予約する
+      note: null
+    highlight_type: section
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1116
+    content:
+      highlight: ノートを買うのは誰にでもできるはずだが、多くの人がこぼすのが「忙しい」という悩みである。要するに、いくら「空間的な余白」を確保しても、それを書くための「時間的な余白」がないというわけだ。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1119
+    content:
+      highlight: そのうちヒマな時間ができるのを待っていては、いつまで経っても余白は生まれない。「他人モード」に先回りして、その侵入を受けない時間帯、「自分モード」のスケジュールを予約して、予定をブロックしてしまうことが必要なのである。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1128
+    content:
+      highlight: 時間単位の余白——朝８時・昼 11 時・昼 15 時・夜 10 時半に毎日アラームが鳴るように設定。そのたびに、１分間だけ自分の呼吸に注意を向けるマインドフルネス瞑想を行う。「Headspace」や「Calm」といったモバイル瞑想アプリを併用するのもいいだろう。１分間の余白を確保することは、より大きな余白を手に入れるための第一歩だ
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1132
+    content:
+      highlight: 日単位の余白——毎日の決められた時間に「自分だけのための予定」を入れる。夜の予定はなかなかコントロールしづらい部分もあるので、日単位の余白は「朝」か「昼」がおすすめ。毎朝１時間くらい早起きをして、オフィスに行く前に必ずカフェに立ち寄るのはどうだろうか。同僚と代わり映えのしないランチをとるくらいなら、そこを「余白」としてデザインし直すのもいいだろう。日単位の余白は、ジャーナリングなどに向いている
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1136
+    content:
+      highlight: 週単位の余白——「水曜日の夜」「土曜日の朝」など、１週間のなかの決まったタイミングに、２〜３時間をまとめてブロックする。毎日のノートを見返したり、テーマを決めて自分を振り返ったりと、余裕を持って自分自身と向き合う時間を確保しておく
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1139
+    content:
+      highlight: 中長期単位の余白——年に４回（３カ月おき） ほど、「自分モード」デーをつくる。たとえば、３月末・６月末・９月末・12 月末の１日を丸ごとブロックし、ほかの予定が入らないようにしておくといいだろう。それがなかなか難しいようなら、親しい友人と「年に１度の振り返りデー」を約束し、日程を決めてしまうというやり方も ある
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1144
+    content:
+      highlight: 質問もまた「余白」である——妄想クエスチョン
+      note: null
+    highlight_type: section
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1145
+    content:
+      highlight: 妄想が生まれてくるための「余白のデザイン」に関して、もう１つ紹介しておきたいのが、妄想クエスチョンという方法だ。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1146
+    content:
+      highlight: 質問文というのは、それに対する回答を期待した「余白」である。「質問」があってはじめて「回答欄」が生まれる。質問を自分に対して設定するということは、答えのための余白をつくることに等しいのである。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1149
+    content:
+      highlight: 「子ども時代の夢は何でしたか？」 「青春時代、何／誰に憧れていましたか？」 「もし３年間自由な時間ができたら、何をしたいですか？」 「もし１００億円の投資を得られるとしたら何をしたいですか？」
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1152
+    content:
+      highlight: 妄想クエスチョンでも大切なことは「手で考える」ことだ。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1155
+    content:
+      highlight: しかし、ここで１枚の紙を用意し、上に大きく横書きで「子ども時代の夢は何でしたか？」と書いてみよう。 さらに、左端に箇条書きの冒頭記号「・」（ビュレット） を３つ書いてみてほしい。あるいは、「１」「２」「３」と数字を振るのもいい。するとどうだろうか？　単なる白紙が、あなたの妄想を書き出すためのキャンバスとしての意味を獲得するはずだ。これが僕が言わんとする「余白のデザイン」である。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1162
+    content:
+      highlight: なかでも「子ども時代」を振り返る質問は、自分の根本的な関心事などを探索する際の常套手段だと言っていい。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1169
+    content:
+      highlight: これと似ているのが、「憧れの気持ち」を手掛かりにする方法だ。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1173
+    content:
+      highlight: 職場の先輩から有名人、スーパースター、歴史上の偉人まで、思いつく限り自分の憧れを書き出してみよう。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1174
+    content:
+      highlight: さらに、「頭のネジ」を外す質問としてよく知られるのが、現実ではなかなかあり得ない架空の設定を入れるやり方である。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1183
+    content:
+      highlight: 欲望ジャーナリング——「○○してみたい」「○○になりたい」など、自分の欲望に目を向けて、それを言葉として吐き出す
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1184
+    content:
+      highlight: 妄想ジャーナリング——「もし１カ月に１０００億円使えるとしたら……」などの架空の設定を入れて、そこから妄想を膨らませる
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1191
+    content:
+      highlight: 思考の「錨」を下ろす——偏愛コラージュ
+      note: null
+    highlight_type: section
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1193
+    content:
+      highlight: 次に、「具体的にどうやって妄想を膨らますか」の観点から、いくつか「手の動かし方」もご紹介していこう。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1194
+    content:
+      highlight: 妄想の手がかりは、「好きだったもの」のなかから探すのが正攻法である。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1195
+    content:
+      highlight: 創造的な発想にあたっては、「Ｋ→Ｖ→Ａ」の順が望ましい（ 48 ページ）。 この場合で言えば、「好きだったもの」を抽象的に思考したり、文字にしたりするだけでなく、具体的な画像をプリントアウトして机の上にバッと並べてみよう。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1198
+    content:
+      highlight: こうすることで、体感覚（Kinesthetic） と視覚（Visual） の刺激が得られるようになる。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1202
+    content:
+      highlight: 「好きなもの」の写真の素材のなかからピンとくるものを６〜 10 枚ほど集めて、机のうえに並べ直してみよう。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1204
+    content:
+      highlight: 次に、それらを貼り合わせてコラージュをつくっていく。Ａ３サイズのスケッチブックを用意し、見開き２ページに貼ってみてもいいし、大きめのサイズのコルクボードにピンで留めてもいいだろう。これが偏愛コラージュだ。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1206
+    content:
+      highlight: それぞれの写真の下には「好きになった理由」「好きな要素」などを短いキーワードにして書いておく。ビジョン思考は、単なる右脳思考ではなく、イメージモードと言語モードを行き来することに主眼がある。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1209
+    content:
+      highlight: 偏愛コラージュのポイントは、忘れかけていたものも含め、いまのあなたを形づくっている「好き・関心」を一覧化していることにある。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1211
+    content:
+      highlight: コラージュをつくったら、自室の目立つところに貼り出してみよう。これは今後、あなたのビジョン思考をしっかりとつなぎとめる「 錨」になってくれる。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1213
+    content:
+      highlight: 「自分の根本的な関心がどこにあるのか」——それを見失わないようにすれば、日々の生活・仕事はもちろん、昇進・転職・結婚などの転機にも、「他人モード」の荒波に流されることは少なくなるだろう。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1218
+    content:
+      highlight: 「考える→手が動く」を〝逆転〟する——ひみつ道具プロトタイプ
+      note: null
+    highlight_type: section
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1219
+    content:
+      highlight: 偏愛コラージュがＶＡＫのうち、主に視覚（Visual） からの刺激を意図しているとすると、体感覚（Kinesthetic） を重視したエクササイズとしては、レゴブロックを使った方法がよく知られている。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1231
+    content:
+      highlight: やり方はシンプルだ。ある「お題」に対して、限られた時間・限られたピース数で何か作品をつくる。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1233
+    content:
+      highlight: お題——なりたい私（制限時間５分・10 ピース）
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1233
+    content:
+      highlight: ポイントは「考えずにとにかく手を動かす」ということ。僕らは「何をつくるかを考えてから、手を動かすこと」にあまりにも慣れ過ぎている。その「順序」を壊すことが、このエクササイズの目的だ。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1235
+    content:
+      highlight: ひとまずパッと２つのブロックを取り上げて、それをランダムに組み合わせてみよう。その色や形態を眺めるなかで、自分が何をつくっているのかに気づくという順序でかまわない。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1238
+    content:
+      highlight: とにかくあまり悩まずに、子どもが遊ぶときのように手を動かし続けよう。子どもは「何をつくろうか」などと考え込んだりしない。適当に組み立てたりするなかで、だんだんとアイデアの輪郭をはっきりさせていく。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1240
+    content:
+      highlight: 制限時間が終わったら、その作品の「タイトル」を正方形のポストイットに書こう。あまり悩まず、１分くらいでパッと言葉にするのが望ましい。ネーミングの作業は、自分がつくったものの本質を抽出する「コンセプト化」の訓練になる。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1247
+    content:
+      highlight: お題——あなただけの「ひみつ道具」（制限時間 10 分／ 20 ピース程度）
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1249
+    content:
+      highlight: これもやり方は同じである。「どんな道具があったら便利だろうか？」とか「解決すべき問題は何か？」といったことは考えなくていい。まずは気になるピースを手にとってみて、適当に組み合わせる。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1251
+    content:
+      highlight: 観察してみたとき、それは何に見えるだろうか？　「この部分が羽みたいだな」とか「この穴からは何が飛び出すだろうか」というように、あくまでも視覚情報を起点にしよう。最後に、ひみつ道具に「名前」をつけ、ポストイットに書いたら完成だ。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1254
+    content:
+      highlight: 作品が完成したら、ぜひ「なぜその作品をつくったのか？」も考え、自分の根源的な欲求を見つめてみよう。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1257
+    content:
+      highlight: 創造の「テンション」を引き出す——魔法の問いかけ
+      note: null
+    highlight_type: section
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1258
+    content:
+      highlight: 妄想を引き出す余白デザインとメソッドは手元に揃ったものの、それが単なる妄想に留まっている限り、まだ思考をドライブさせることはできないだろう。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1259
+    content:
+      highlight: ビジョンを思考のエネルギーに変えるためには、すでに触れた「創造的緊張（Creative Tension）」が欠かせない。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1262
+    content:
+      highlight: そのために必要なのが「問いかけ」という方法だ。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1265
+    content:
+      highlight: 単に「課題＝現状のユーザーに新たなトライアルをしてもらう」ではなく、「どうすれば、現状のユーザーに新たなトライアルをしてもらえるだろうか？」という疑問文のかたちになっているのである。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1267
+    content:
+      highlight: 些細なことに思われるかもしれないが、これも一種の余白デザインである。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1268
+    content:
+      highlight: 問いかけの形式になっていることで、自ずと僕たちの思考にはそれに答えようとする強制力が働き、その余白を埋めるべく、具体的なアクションが起こりやすくなる。とくに、組織として何か１つの問題解決を行う際には、このように「問いかけ」をデザインすることで、メンバーを同じ方向に意識づけることができる。非常に合理的に考えられたやり方である。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1271
+    content:
+      highlight: 「問いかけ」は、イシュー・ドリブン（問題解決型） なアプローチにおいても有効だが、ビジョン・ドリブンな思考においてはそれ以上に効果を発揮する。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1273
+    content:
+      highlight: 何か具体的な問題を起点にして、その解決を目指すイシュー・ドリブンな取り組みにおいては、「どうすれば……できるか？」（HOW－MIGHT－WE型） という問いかけを立てることによって、「マイナスをゼロに引き上げようとするドライブ」が生まれる。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1276
+    content:
+      highlight: 他方、妄想を起点にした考え方の場合、問いかけは「もしも……ならどうなるか？」（WHAT－IF型） というかたちをとる。前者と対比するなら、こちらは「ゼロからプラスに引き上げる駆動力」だと言えるだろう。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1279
+    content:
+      highlight: なんらかの妄想を引き出したのなら、それをぜひWHAT－IF型の問いかけに落とし込んでみてほしい。「その妄想を実現するには何が必要か？」ではなく、「妄想が実現したら何が起こるか？」と、さらなる未来に目を向けてみるわけだ。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1282
+    content:
+      highlight: 妄想→知覚→組替→表現という４ステップからなるビジョン思考を行う際、最初のステップで何よりも大切なのは、自分の内から湧き出てきた妄想の「熱量」をできるだけ冷まさないこと、できればより「熱く」することである。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1287
+    content:
+      highlight: 「もしも誰もが週３日だけ働く時代が来たら、どうなるか？」 「もしも平均寿命が１０００歳になったら、どうなるか？」 「もしも空飛ぶクルマが発売されたら、どうなるか？」 「もしもお金が存在しない世界になったら、どうなるか？」 「もしも１日１００冊ずつ読書ができるなら、どうなるか？」
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 1306
+    content:
+      highlight: この段階では日頃ついつい「地に足がついた」発想をしてしまいがちな自分を捨てて、なるべく遠くまで思考を「飛ばす」ことを意識してみよう。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+
