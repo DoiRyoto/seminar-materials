@@ -1,0 +1,455 @@
+metadata:
+  version: '1.0'
+  format: kindle_annotations
+  exported_at: '2025-03-30T05:58:14.454Z'
+annotations:
+  - location: 207
+    content:
+      highlight: 内発的な「直感」や「妄想」からスタートし、それを駆動力にしながら、具体的なアイデアを磨き上げるには、何をすればいいのか？——それが僕たちの目下の関心事だ。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 213
+    content:
+      highlight: ① カイゼン思考 ② 戦略思考 ③ デザイン思考 ④ ビジョン思考
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 216
+    content:
+      highlight: ＰＤＣＡが支配する「カイゼンの農地」
+      note: null
+    highlight_type: section
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 227
+    content:
+      highlight: この世界の何よりもの特徴は、「誰かが規定したゴールを基準に、すべてが動いている」ということだ。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 233
+    content:
+      highlight: この世界で勝者になるために必要なのは、ただ１つ、生産性を高めることだ。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 236
+    content:
+      highlight: そのための方法論として登場したのが計画→実行→評価→改善（Plan-Do-Check-Action） から成るＰＤＣＡサイクル、いわゆる「カイゼン」だ。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 247
+    content:
+      highlight: 「カイゼンの民」に迫りくる自動化とＶＵＣＡの脅威
+      note: null
+    highlight_type: section
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 248
+    content:
+      highlight: いまや、この「カイゼンの農地」の住人は、かつてないほどの危機にさらされつつある。その背景にあるのが「オートメーションの波」と「 ＶＵＣＡ の霧」だ。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 270
+    content:
+      highlight: そしていま、前述の２つの脅威が前景化するなかで、いよいよこの「カイゼンの農地」のリスクは高まっている。それでも、この場所から多くの人が出ていこうとしないのはなぜだろうか？
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 277
+    content:
+      highlight: 「新しい商品・サービスを生み出そうとする雰囲気が、職場のなかにない……」 「ゴーサインが出るのは、最大公約数的に社内合意が取れる無難な企画ばかり……」 「ルールに従うのが得意な人材ばかりが育ち、前提そのものを壊す思考ができない……」
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 294
+    content:
+      highlight: 「論理」を手に領土拡大を目指す「戦略の荒野」
+      note: null
+    highlight_type: section
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 295
+    content:
+      highlight: こうした危機感を背景にして、自ら動いて食糧を得ようとする人々が出てくる。ＰＤＣＡやリスク管理に守られた「農地」を抜け出し、一定のリスクを取りながら狩猟・採集や陣地取りに明け暮れる——それが２つめの世界である「戦略の荒野」だ。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 298
+    content:
+      highlight: それに対し、「戦略の荒野」での基準はたった１つ、勝利によって得られるパワーだ。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 308
+    content:
+      highlight: 陣地取り合戦をする「戦略の荒野」では、ライバルに負けない強靭な体力を身につける以上に、正面からの衝突を回避して、彼らが見落としている領域をいち早く手中に収める戦略が欠かせない。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 317
+    content:
+      highlight: どれだけ戦っても得られないもの
+      note: null
+    highlight_type: section
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 351
+    content:
+      highlight: 他方、この「荒野」における弊害として、もう１つ忘れてはいけないものがある。シンプルに言えば、個人が「疲弊」してしまうことだ。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 354
+    content:
+      highlight: 夢中になって駆け回っているあいだは何も問題ないのだが、このゲームには「終わり」がない。高みに行けば行くほど、並外れた思考力を持っている人、強靭なバイタリティを持つ人、経済団体や政治などの圧倒的な既得権益に守られている人ばかりが目に入ってくるし、下からは「嫉妬」の矢が飛んでくるようになる。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 361
+    content:
+      highlight: 目的の難民たちの新天地「デザインの平原」
+      note: null
+    highlight_type: section
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 365
+    content:
+      highlight: ずっとここで競争を続けていく人生が、果たして魅力的なのか……？　かといって、かつての「農地」におとなしく帰るには、あまりにもいろいろなことを知りすぎてしまった……。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 368
+    content:
+      highlight: そうしたなかで、人々がふと目を向けると、「戦略の荒野」から一本の橋が伸びているではないか。その先に広がっている新たな大地こそが、「デザインの平原」である。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 372
+    content:
+      highlight: 論理一辺倒の世界から抜け出し、感性を生かすことの重要性を説いたダニエル・ピンクの『ハイ・コンセプト——「新しいこと」を考え出す人の時代』（三笠書房）
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 374
+    content:
+      highlight: トム・ケリーらの『発想する会社！——世界最高のデザイン・ファームＩＤＥＯに学ぶイノベーションの技法』（早川書房）
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 407
+    content:
+      highlight: デザイン思考の３つのシンプルな本質
+      note: null
+    highlight_type: section
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 412
+    content:
+      highlight: ① 手を動かして考える——プロトタイピング ② 五感を活用して統合する——両脳思考 ③ 生活者の課題をみんなで解決する——人間中心共創
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 415
+    content:
+      highlight: 手を動かして考える
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 422
+    content:
+      highlight: デザイン思考のモットーの１つに「Build to Think（考えるためにつくる）」というものがある。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 427
+    content:
+      highlight: 構築主義の核心は、緻密な計画に先立って、まず不完全なアウトプットを行い、それを起点に対話・内省を促していくということにある。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 434
+    content:
+      highlight: 五感を活用して統合する
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 440
+    content:
+      highlight: 両脳思考という言葉が指し示すとおり、ここにはいわゆる「左脳／右脳」「論理／直感」「言語／イメージ」といった二項対立を乗り越え、両者を統合しながら新しいものをつくるという態度
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 442
+    content:
+      highlight: デザイン思考というのは、個別具体的な直感・イメージだけを重視するものではない。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 444
+    content:
+      highlight: 直感と論理とのあいだを自在に行き来する「往復運動」こそが、デザイン思考の本質だと言えるだろう。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 447
+    content:
+      highlight: まず手を動かしながらプロトタイプをつくったら、一定の「言葉」に落とし込む作業も忘れてはならない。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 461
+    content:
+      highlight: とくに新しいものを生むためには、「何か世の中の〝あたりまえ〟に違和感を感じる」とか、「なんとなく気になる」いう直感的な体感覚（Kinestheticモード） からはじめ、自分なりのアイデアを具体的なイメージとして描く視覚（Visualモード） に移り、最後にそれに呼び名をつける（Auditoryモード） という順序で考えることが自然ではないか、という仮説を持っている。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 468
+    content:
+      highlight: 生活者の課題をみんなで解決する
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 469
+    content:
+      highlight: デザイン思考の３つめのポイントが、「人間中心の共創プロセス」という特徴である。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 474
+    content:
+      highlight: 小さな子どもが粘土でつくったものに対し、「これはゾウさんかな？」と聞けば、その子は「これは消防車だよ」と答えるかもしれない。すると、僕たちは「じゃあ、ここにタイヤをつけたらどうかな？」などと、別のアイデアを提案することができる。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 493
+    content:
+      highlight: 「有用性」から解放された「人生芸術の山脈」
+      note: null
+    highlight_type: section
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 497
+    content:
+      highlight: デザイン思考とは、万人が創造性を発揮するためのアプリケーションに過ぎない。この大地では、表向きには誰もが平等であり、見晴らしのいい平原が広がっている。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 498
+    content:
+      highlight: しかしながら当然、この地にも「先住民」はいる。デザインや美術に関する素養を持ったデザイナーやクリエーターたちだ。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 504
+    content:
+      highlight: 大半の人たちは「平原」の見学ツアーを楽しんだあと、決まりの悪そうな顔をして、「橋」を引き返していく。論理・言葉に基づいた左脳型のシェア争いを繰り返していた人たちは、自分たちの創造性に自信が持てず、どこかで「先住民」たちへの引け目を感じている。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 510
+    content:
+      highlight: 裏を返せば、つくり手の個性や世界観の表現が制限されてしまうことでもある。「みんなでつくる」以上、「自分一人でつくる」ときよりも「自分らしさ」が失われる
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 516
+    content:
+      highlight: こうして内面的な「迷子」に陥った人々が、ふと視線を向けた先に広がっているのが第４の大地「人生芸術の山脈」だ。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 520
+    content:
+      highlight: ほとんどの登山者たちは一人だが、なぜか誰もが楽しそうで、いきいきとした表情で登山を続けている。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 524
+    content:
+      highlight: みんな「他人の目」を気にしていないことだ。周囲の景色を楽しみながら「自分モード」の思考に没頭し、ひたすら目の前の道を一歩一歩、踏みしめている。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 531
+    content:
+      highlight: ウェブやモバイルデバイスによって関心が「外」に向きがちな時代だからこそ、〝いまここ〟にいる「自分」へと注意を引き戻すことに、人々が価値を感じるようになっているのだ。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 539
+    content:
+      highlight: ４つの思考サイクルの違い
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 543
+    content:
+      highlight: だ。「カイゼン思考」は一定のＫＰＩを前提としながら、それをどう高めるかを目的にしていた。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 544
+    content:
+      highlight: また、「戦略思考」が意図するのは、いかに市場シェアを広げて、より多くの利益を上げるかである。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 549
+    content:
+      highlight: カイゼン思考」や「デザイン思考」を突き動かしているのは、外的な問題・課題（イシュー） だ。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 559
+    content:
+      highlight: 個人的な関心からスタートして創造性をドライブさせる思考法を、僕は「ビジョン思考（Vision Thinking）」
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false

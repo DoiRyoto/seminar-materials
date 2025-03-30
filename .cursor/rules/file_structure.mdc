@@ -1,0 +1,88 @@
+---
+description: 勉強会資料のファイル構造とinput/outputルール
+globs: 
+alwaysApply: false
+---
+---
+description: 勉強会資料のファイル構造とinput/outputルール
+globs: 
+alwaysApply: true
+---
+
+# 勉強会資料のファイル構成とI/Oルール
+version: 1.0.0
+last_updated: 2025-03-30
+
+## プロジェクト構造
+
+### 基本構造 [priority: high]
+プロジェクトは以下の構造で統一されています：
+```
+├── ルートディレクトリ
+│   ├── 書籍タイトル1/
+│   │   ├── input/
+│   │   └── output/
+│   ├── 書籍タイトル2/
+│   │   ├── input/
+│   │   └── output/
+│   └── ...
+```
+
+各書籍のタイトルがフォルダ名となり、その中に必ず`input`と`output`フォルダが存在します。
+
+## inputフォルダのルール
+
+### ファイル形式 [priority: high]
+- inputフォルダにはYAMLファイル形式で資料のソースデータを保存します
+- 各YAMLファイルは書籍の注釈、ハイライト、メモなどを含みます
+
+### 内容構成 [priority: medium]
+YAMLファイルは以下の構造に従っています：
+```yaml
+metadata:
+  version: '1.0'
+  format: kindle_annotations
+  exported_at: '2025-03-30T05:58:14.454Z'
+annotations:
+  - location: 位置番号
+    content:
+      highlight: ハイライトされたテキスト
+      note: メモ（省略可）
+    highlight_type: normal/section/chapter
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: true/false
+```
+
+### ハイライトタイプ [priority: high]
+ハイライトタイプは以下の3種類が使用されています：
+- `highlight_type: normal` — 通常の重要なポイントを示す
+- `highlight_type: section` — 新しいセクションの開始や区切りを示す
+- `highlight_type: chapter` — 章レベルの大きな区分けを示す
+
+## outputフォルダのルール
+
+### ファイル形式 [priority: high]
+- outputフォルダにはMarkdown形式（.md）で資料を出力します
+- 出力ファイル名は対応するinputファイル名と同じにします（拡張子のみ変更）
+  例：input/introduction.yaml → output/introduction.md
+
+### 出力内容 [priority: high]
+- 出力されるMarkdownファイルは、「勉強会資料作成ガイドライン」に定義された構成に従って作成されます
+- 特に以下のセクションを必ず含める必要があります：
+  1. 実施内容
+  2. 学べる内容
+  3. すぐに使えそうな知見
+  4. 自由記述（読み手に伝えたいこと、読書メモ）
+
+### 更新ルール [priority: medium]
+- inputファイルが更新された場合は、対応するoutputファイルも更新する必要があります
+- outputファイルの更新日時は、最新の編集日時を反映させてください
+
+## 処理手順
+
+1. 書籍フォルダ内のinputフォルダからYAMLファイルを読み込みます
+2. 「勉強会資料作成ガイドライン」に従って内容を構成します
+3. 同じ書籍フォルダのoutputフォルダに、同名のMarkdownファイルとして出力します
+4. 必要に応じて視覚資料（図表やグラフ）も生成・追加します
