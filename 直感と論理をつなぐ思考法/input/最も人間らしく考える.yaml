@@ -1,0 +1,564 @@
+metadata:
+  version: '1.0'
+  format: kindle_annotations
+  exported_at: '2025-03-30T10:49:34.985Z'
+annotations:
+  - location: 592
+    content:
+      highlight: 変わるための〝まわり道〟 ——トランジション理論
+      note: null
+    highlight_type: section
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 595
+    content:
+      highlight: 「人生における転機には３つの段階がある」とするトランジション 理論
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 596
+    content:
+      highlight: まず必要なのは「 ① 終わらせる段階」に進むことだ。いつのまにか現れた停滞感や退屈さは、あなたがこれまでのステージを終わらせて、次に向かおうとしている証にほかならない。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 599
+    content:
+      highlight: その次にやってくるのが「② ニュートラルな段階」だ。過去のステージに別れを告げると、方向感覚が失われて不安が生まれるが、日々の自分の感覚に意識を向け、むやみやたらと動かないことが重要だとされる。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 602
+    content:
+      highlight: 最後には「 ③ 次のステージを探す段階」が訪れる。あれこれ探し回るなかで、そのうち自分が進むべき方向にピンとくるものが現れるだろう。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 606
+    content:
+      highlight: このような「モノクロの日常」を感じたら、トランジション（移行） のタイミングが迫っていると考えたほうがいい。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 626
+    content:
+      highlight: 穴に落ちること。すべてはそこから
+      note: null
+    highlight_type: section
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 629
+    content:
+      highlight: ご覧のとおり、穴から落ちた先には、新しい地下世界が広がっている。その名も「ビジョンのアトリエ」——。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 634
+    content:
+      highlight: 学生やいわゆるアーティストを除くと、この「アトリエ」に定住している人は、ほとんどいない。多くは地上の世界からやってきた「旅行者」や「多拠点居住者」であり、発想を広げたり磨いたりする目的でここに降りてきたのち、しばらくしたらスッキリとした表情で自分のフィールドに帰っていく。「
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 639
+    content:
+      highlight: それぞれの部屋には「妄想の部屋」「知覚の部屋」「組替の部屋」「表現の部屋」という札がかけられている。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 641
+    content:
+      highlight: 妄想の部屋
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 642
+    content:
+      highlight: 自分自身の内面や潜在意識と向き合い、「本当の関心」と出会うための場所「妄想の部屋」だ。といっても、それはまだ何か明確なかたちを取っている必要はなく、あくまで「妄想」のレベルでかまわない。大事なのは、自分の持つ欲望や、好きなこと、ワクワクすることに向き合うこと。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 651
+    content:
+      highlight: この部屋から次の部屋につながる扉は、自分の妄想を「もしも……だったら？」という魔法の問いかけに落とし込むことで開くようになっている。「問いかけ」は、新たな世界への扉を開くのだ。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 654
+    content:
+      highlight: 知覚の部屋
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 654
+    content:
+      highlight: 扉を開けた先に待っている２番目の部屋は、妄想の解像度を高めるための空間「知覚の部屋」だ。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 657
+    content:
+      highlight: 視覚や聴覚、体感覚を刺激するさまざまなツールが用意されている。各人はそれらを活用しながらインスピレーションを得て、ぼんやりとしていた妄想の輪郭をはっきりさせ、未来の可能性に彩られた構想を１枚の絵や設計図にまとめ上げていく。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 660
+    content:
+      highlight: 組替の部屋
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 661
+    content:
+      highlight: ３番目の部屋は、解像度を高めてアイデアらしくなってきた構想の「独自性」を徹底的に突き詰めていく工房「組替の部屋」である。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 664
+    content:
+      highlight: 自分がとらわれている常識が「都市伝説」であることに気づいたり、構想を細かいパーツに分けて、もう一度、新しい組み合わせを考えたりするなかで、キービジュアルやネーミングなどの精度を高めていく。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 667
+    content:
+      highlight: 表現の部屋
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 667
+    content:
+      highlight: 最後の部屋は、アイデアとして組み替えた妄想を、いったん具体的な作品にする空間「表現の部屋」だ。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 669
+    content:
+      highlight: ビジョンを簡単にプロトタイピングしたもの（通称プロボタイプ） で十分だ。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 670
+    content:
+      highlight: 自分の大事なビジョンを表現した作品に対して、小規模グループで批評し合い、そこで得た感想やフィードバックによってモチベーションを高めたり、次なる妄想の種をつくったりすることが、この場所の狙いだ。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 676
+    content:
+      highlight: 展示を終えた人は、再び「妄想の部屋」に戻り、妄想を起点にしたプロトタイピングのサイクルに入っていく。これを何度も繰り返すうちに、「表現の部屋」の裏手には、それぞれの住人たちがつくった作品の山が積み上がっていく。これこそが「人生芸術の山脈」の正体だ。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 690
+    content:
+      highlight: 人が「自分らしい思考」を喪失する４つの原因
+      note: null
+    highlight_type: section
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 697
+    content:
+      highlight: ① 内発的動機が足りない ——妄想（Drive） ② インプットの幅が狭い ——知覚（Input） ③ 独自性が足りない ——組替（Jump） ④ アウトプットが足りない ——表現（Output）
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 701
+    content:
+      highlight: 内発的動機が足りない
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 703
+    content:
+      highlight: 何が「やりたいこと」で何が「やりたくないこと」なのか、「なぜ」自分がそれをやっているのかすら、よくわからなくなっている人もいるだろう。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 706
+    content:
+      highlight: インプットの幅が狭い
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 710
+    content:
+      highlight: 逆説的に響くかもしれないが、「あなたのためにカスタマイズされた情報」に触れれば触れるほど、あなたの頭のなかは「ほかの誰か」と同一化していくのだ。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 712
+    content:
+      highlight: 独自性が足りない
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 716
+    content:
+      highlight: シェアやリツイートが手軽にできてしまうからこそ、インプットした情報にどのような加工を施すかについて、考えるタイミングがなくなっているのである。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 718
+    content:
+      highlight: アウトプットが足りない
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 722
+    content:
+      highlight: 学びを他者に伝えたり、展示・発表したりする場が欠落しているのだ。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 723
+    content:
+      highlight: ビジョン思考を身につける２つの条件
+      note: null
+    highlight_type: section
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 725
+    content:
+      highlight: 自分らしくいきいきと活動している人、ビジョナリーと呼ばれる人・企業は、意識的にかどうかは別として、必ずこうした「ビジョンのアトリエ」にアクセスし、「自分モード」のスイッチを入れ直しているのだ。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 730
+    content:
+      highlight: 僕たちのような凡人に求められているのは、いつでも地下の世界に降りて、自分だけの妄想からエネルギーを汲み上げ、再び地上の現実世界に戻ってくるだけのスキルなのである。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 734
+    content:
+      highlight: 前述の４つのステップをいわば人為的に設計し、意識的にそれを日々の思考に取り入れることが必要になる。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 736
+    content:
+      highlight: 「余白づくり」がすべての起点になる
+      note: null
+    highlight_type: section
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 736
+    content:
+      highlight: このような思考のモードを「習慣」として成り立たせるには、次の２つのものが必要になる。 ① ビジョン思考の「スペース」 ② ビジョン思考の「メソッド」
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 740
+    content:
+      highlight: ビジョン思考を習慣化するうえで何よりも大切なのは、そのための「余白」を人為的につくることなのだ。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 741
+    content:
+      highlight: まっさらなノートのような「空間的余白」だけでなく、それを埋めるための「時間的余白」をも意味している。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 742
+    content:
+      highlight: 妄想・知覚・組替・表現が成立するためには、一定の時間・空間上に広がる「キャンバス」が欠かせない。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 744
+    content:
+      highlight: ① 妄想——内省のキャンバス ② 知覚——触発のキャンバス ③ 組替——飛躍のキャンバス ④ 表現——展示のキャンバス
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 746
+    content:
+      highlight: 第３章以降のメソッド編では、こうした「余白」のつくり方も併せて解説している。いくらメソッドがあっても、それが機能するためのキャンバスがなければ、ビジョンを思考の駆動力にすることはできないからだ。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 748
+    content:
+      highlight: それ以前の問題は「これらの余白は、必ず本人が自らつくらねばならない」ということだ。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 753
+    content:
+      highlight: 大人になってしまうと、少なくとも時間の「空き」はほとんどなくなる。業務や家族のための時間はもちろんだが、それ以外にも、ＳＮＳでの近況報告や写真、YouTube動画やNetFlixの連続ドラマ、メッセージアプリでの連絡などなど、ありとあらゆるものが、あなたの余白を狙って流れ込んでくる。そんな現代においては、余白が勝手に生まれることなどあり得ない。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 756
+    content:
+      highlight: だからこそ、「余裕ができたら、やってみよう」ではなく、まず先回りして余白をつくるのである。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 763
+    content:
+      highlight: 僕たちの仕事時間は「やるべきこと」で溢れていくからこそ、「何もしない状態＝余白」をつくる方法にはそれだけの価値があるのだ。余白がなければビジョン思考が機能し得ないことを、イノベーターたちは経験的によく知っているのである。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 779
+    content:
+      highlight: あなたの職場には、ビジョンが生まれる「余白」はあるだろうか？　それをかたちにする「キャンバス」は用意されているだろうか？　もしそれらがまったくないのであれば、まず「余白」をつくるところからスタートするべきだ。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 781
+    content:
+      highlight: 現代人はむしろ「右脳」を育てやすい
+      note: null
+    highlight_type: section
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 782
+    content:
+      highlight: ビジョン思考を習慣化する２番目の条件は、誰にでも実践できる「メソッド」のかたちに落とし込まれていることだ。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 784
+    content:
+      highlight: それらのメソッドが１つのサイクルのなかに配置されていること。つまり、どこかで途切れたりしない１つの「円環」ないし「螺旋」としてデザインされていることである。妄想からスタートした思考は、プロトタイプ化のフェーズをもって「終わる」のではなく、さらなる妄想を触発する「サイクル」になることが理想的だ。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 789
+    content:
+      highlight: ビジョン思考が右脳モードと左脳モードを往復する性格を持っていると聞いて、身構えている方も多いのではないだろうか？
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 790
+    content:
+      highlight: 日本のビジネス現場には「自分、数字に弱いんですよね」「ロジカルに考えることができなくて……」などと、左脳系のスキルにコンプレックスを抱く人が少なくない一方、感性やひらめき、創造性、イノベーションといった領域にネガティブな反応を示す人も相当数いる。「絵が苦手で……」とか「学生時代は工作センスが絶望的でした」
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 797
+    content:
+      highlight: そもそも僕たちは、直感を磨くための教育や訓練を受けていない。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 798
+    content:
+      highlight: 感性や直感に関わる能力には、まだまだ大きな伸び代があるかもしれないということだ。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 810
+    content:
+      highlight: 「頭」で考えていては淘汰される。「手」で考えるには？
+      note: null
+    highlight_type: section
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 811
+    content:
+      highlight: さらに未来に視点を移すなら、ビジョン思考の「メソッド」は、あなたにとってＣＡＮ（できること） であるどころか、ＳＨＯＵＬＤ（すべきこと） にもなっていくだろう。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 818
+    content:
+      highlight: 人間の脳はアナログ回路であり、デジタル型であるコンピュータ回路と比べると、圧倒的にスピードは遅い。その一方で、人間の脳には、あちこちの場所が同時発火する「超並列型処理」という顕著な特徴がある。最大１００兆回の計算を一瞬で行うというこのメカニズムのおかげで、人間の脳内では「予期せぬつながり」が生まれる。これが、いわゆる「ひらめき」の正体だ。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 824
+    content:
+      highlight: ただじっと座りながら考えて脳の一部を使うのではなく、さまざまな感覚器官からインプットしたり、手や身体を動かしたりすることで、脳内のいろいろな部位が同時発火する状態をつくることができる。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  - location: 832
+    content:
+      highlight: 今後、「人工知能的なもの」がどの程度／どれくらいのスピードで、人間を脅かすことになるのかはわからない。しかし、「機械にはできない思考」「最も人間らしい考え方」があるのだとすれば、そのキモは「脳のできるだけ幅広い領域を同時発火させること」だろうから、ＶＡＫの要素（目・口・手） をバランスよく取り入れることはやはり必要だろう。
+      note: null
+    highlight_type: normal
+    ai_metadata:
+      content_type: text
+      language: ja
+      has_note: false
+  
